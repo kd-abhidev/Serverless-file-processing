@@ -149,7 +149,9 @@ User Upload → Amazon S3 → Lambda Trigger → CloudWatch Logs
 
 
 
-##Outcome
+
+## Outcome
+
 
 
 
@@ -157,5 +159,4 @@ User Upload → Amazon S3 → Lambda Trigger → CloudWatch Logs
 
 
 Successfully built a serverless file processing system where file uploads to Amazon S3 automatically trigger an AWS Lambda function to process file metadata and store logs in Amazon CloudWatch, enabling a scalable, secure, and fully automated event driven workflow.
-
 
