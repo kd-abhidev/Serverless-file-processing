@@ -125,9 +125,3 @@ Refer to Screenshots folder for output and logs
 ## Outcome
 
 Built an automated system where file uploads trigger Lambda execution and log metadata in CloudWatch.
-
----
-
-
-
-Abhidev
